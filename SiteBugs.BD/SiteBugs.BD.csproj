@@ -5,8 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DAL\" />
-    <Folder Include="Models\" />
+    <PackageReference Include="MySql.Data" Version="8.0.19" />
   </ItemGroup>
 
 </Project>
